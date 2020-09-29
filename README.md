@@ -1,1 +1,0 @@
-# mayacantik.github.io
