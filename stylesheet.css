@@ -1,5 +1,5 @@
 body {
-  font-family: "Avenir Next";
+   font-family:'Sans Comic';
 }
 
 li {
@@ -24,8 +24,8 @@ li {
 }
 
 .main {
+   background-color: ffe4e1;
   padding: 100px 80px;
-  ground-color: #ffe4e1;
 }
 
 .copy-container h1 {
@@ -99,4 +99,8 @@ input, textarea {
 
 .footer-list {
   float: right;
+}
+
+.footer-list li {
+  padding-bottom: 20px;
 }
