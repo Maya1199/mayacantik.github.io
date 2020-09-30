@@ -48,8 +48,9 @@ li {
 .section-title {
   border-bottom: 2px solid #ffb6c1;
   font-size: 28px;
-  padding-bottom: 15px;
+  padding-bottom: 14px;
   margin-bottom: 50px;
+
 }
 
 .contents-item {
@@ -63,7 +64,7 @@ li {
 }
 
 .contact-form {
-  padding-top: 100px;
+  padding-top:1000;
 }
 
 /* Tambahkan CSS untuk tags <input> dan <textarea> */
